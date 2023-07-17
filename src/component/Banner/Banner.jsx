@@ -10,10 +10,10 @@ const Banner = () => {
     <div
       data-aos="fade-up"
       data-aos-anchor-placement="center-bottom"
-      className="banner p-20 h-[100vh] flex flex-col md:flex-row justify-start items-center gap-10  "
+      className="banner p-20 h-[100vh] flex flex-col md:flex-row justify-center md:justify-start  items-center gap-10  "
     >
       <div className="leading-loose text-white">
-        <h1 className="text-7xl font-bold ">
+        <h1 className="text-3xl md:text-5xl font-bold ">
           Lets make <br /> beautiful flowers a <br /> part of your life.
         </h1>
         <p className="text-xl my-5  font-semibold">

@@ -12,7 +12,7 @@ const HotDeal = () => {
       data-aos-anchor-placement="center-bottom"
       className="my-20 gap-20  bg-[#E554730D] p-20 flex flex-col-reverse md:flex-row justify-center items-center "
     >
-      <div className="w-1/2 text-center">
+      <div className="md:w-1/2 text-center">
         <h1 className="text-4xl font-bold">
           Hot Deal ! Sale Up To 25% <span className="text-rose-500">Off</span>
         </h1>

@@ -18,7 +18,7 @@ const Services = () => {
         <img src={logo1} alt="" />
         <p className="text-xl font-bold">Same Day Delivery: Click & Collect</p>
       </div>
-      <div className="flex flex-col justify-center transition-all hover:scale-110 gap-3 items-center">
+      <div className="flex flex-col justify-center transition-all hover:scale-110 gap-3 my-10 items-center">
         <img src={logo2} alt="" />
         <p className="text-xl font-bold">Fresh Flowers Local Growers</p>
       </div>
