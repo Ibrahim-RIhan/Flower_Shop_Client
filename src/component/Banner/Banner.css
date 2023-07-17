@@ -1,3 +1,7 @@
-.banner{
-    background-color: rgba(229, 84, 115, 0.10);
+.banner {
+    background-image: url("./images/Rectangle 1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: rgba(0, 0, 0, 0.5);
 }
